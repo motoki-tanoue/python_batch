@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"coverage-gutters.coverageBaseDir": ".",
+		"coverage-gutters.showLineCoverage": true,
+		"coverage-gutters.showRulerCoverage": true
+	}
+}
